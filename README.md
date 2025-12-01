@@ -3,7 +3,7 @@
 Servicio API REST desarrollado en Spring Boot para la gestión de contenidos de la aplicación móvil. Este microservicio administra los consejos y tips de jardinería.
 
 ## Equipo de Desarrollo
-* Pancho Torres
+* Francisco Torres
 * Jason Mancilla
 * Manuel Vallegos
 
